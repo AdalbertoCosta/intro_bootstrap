@@ -2,24 +2,23 @@ body{
     font:20px Arial, sans-serif;
 }
 
-.navbar{
-    background-color: lightgray;
+.navbar, .parceiros{
+    background-color:  rebeccapurple;
+    color: #FFFFFFFF;
 }
-
-.quemsomos{
-    background-color: lightblue;
-    color: green;
+.navbar-light .navbar-nav .nav-link {
+    color:#FFFFFFFF;
+}
+.quemsomos, .servicos{
+    background-color:#FFFFFFFF;
+    color:rebeccapurple;
 }
 
 .margin{
    padding-bottom:50px;
    padding-top:10px;
 }
-
-.parceiros{
-    background-color: lightgreen;
-}
 .fundo{
     background-color: black;
-    color: white;
+    color: #FDFDFD;
 }
